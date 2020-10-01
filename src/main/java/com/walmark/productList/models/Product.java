@@ -3,7 +3,7 @@ package com.walmark.productList.models;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "01-products")
+@Document(collection = "productList")
 
 public class Product {
 	@Id
