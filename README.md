@@ -1,12 +1,7 @@
 # ProductList
 
-Ejecución de la app web
+For modify app:
 
-1) Clonar fuentes
-2) Crear imagenes Docker 
+Use GIT commit and push to GITHUB Repository (master branch)
 
-	$ docker build -t lider-product-list-springboot .
-	
-3) Ejecutar imagen
-	
-	$ docker run -it -p 80:80 lider-product-list-springboot	
+https://github.com/manuguci/productListBack
