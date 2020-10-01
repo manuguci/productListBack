@@ -10,7 +10,7 @@ import org.springframework.web.filter.CorsFilter;
 @SpringBootApplication
 public class ProductListApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {		
 		SpringApplication.run(ProductListApplication.class, args);
 	}
 	
